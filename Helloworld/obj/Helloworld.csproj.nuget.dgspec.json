@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moust\\OneDrive\\Documents\\GitHub\\Training-code\\Helloworld\\Helloworld.csproj": {}
+    "C:\\Users\\moust\\Documents\\revature\\220245-Reston-.NET\\Helloworld\\Helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moust\\OneDrive\\Documents\\GitHub\\Training-code\\Helloworld\\Helloworld.csproj": {
+    "C:\\Users\\moust\\Documents\\revature\\220245-Reston-.NET\\Helloworld\\Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moust\\OneDrive\\Documents\\GitHub\\Training-code\\Helloworld\\Helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\moust\\Documents\\revature\\220245-Reston-.NET\\Helloworld\\Helloworld.csproj",
         "projectName": "Helloworld",
-        "projectPath": "C:\\Users\\moust\\OneDrive\\Documents\\GitHub\\Training-code\\Helloworld\\Helloworld.csproj",
+        "projectPath": "C:\\Users\\moust\\Documents\\revature\\220245-Reston-.NET\\Helloworld\\Helloworld.csproj",
         "packagesPath": "C:\\Users\\moust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moust\\OneDrive\\Documents\\GitHub\\Training-code\\Helloworld\\obj\\",
+        "outputPath": "C:\\Users\\moust\\Documents\\revature\\220245-Reston-.NET\\Helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moust\\AppData\\Roaming\\NuGet\\NuGet.Config"
